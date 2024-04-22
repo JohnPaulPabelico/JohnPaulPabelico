@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **cool projects**
 
-- 🤝 I’m looking for help with **upskilling**
+- 🤝 I’m looking for help with **enhancing my skills**
 
 - 👨‍💻 All of my projects are available at [https://jppabelico.vercel.app/](https://jppabelico.vercel.app/)
 
