@@ -2,12 +2,12 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm John Paul Pabelico</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 <br>
 <h3 align="center">Me when I code ->   (╯ ͡❛ ͜ʖ ͡❛)╯┻━┻</h3>
 <br>
 
-
+- 🆙 Want to see my current level, here's my [GitRoll](https://gitroll.io/profile/uDKivB0kvY0PtJuXftSXfc2IC81A2)
 
 - 🔭 I’m currently working on **my career**
 
